@@ -1,0 +1,16 @@
+question,option1,option2,option3,option4,answer
+在 p5.js 中，要繪製橢圓形應該使用哪一個函式？,rect(),ellipse(),line(),triangle(),1
+哪一個函式可以設定圖形的填滿顏色？,stroke(),noFill(),fill(),background(),2
+background(0) 會產生什麼效果？,白色背景,黑色背景,紅色背景,透明背景,1
+哪一個函式可以在畫布上繪製直線？,circle(),point(),line(),text(),2
+p5.js 中的 setup() 函式通常會執行幾次？,每一幀一次,只執行一次,滑鼠點擊時執行,鍵盤按下時執行,1
+p5.js 中的 draw() 函式預設用途是什麼？,只設定畫布大小,反覆繪製每一幀畫面,讀取 HTML 標籤,刪除所有變數,1
+"createCanvas(400, 300) 的作用是什麼？",建立 400 乘 300 的畫布,設定文字為 400 種顏色,建立 400 個按鈕,播放 300 秒動畫,0
+哪一個函式可以設定線條顏色？,fill(),stroke(),text(),ellipse(),1
+mouseX 代表什麼？,滑鼠目前的水平座標,滑鼠目前的垂直座標,畫布的高度,目前影格數,0
+mouseY 代表什麼？,滑鼠目前的水平座標,滑鼠目前的垂直座標,畫布的寬度,目前分數,1
+哪一個函式可以設定文字大小？,textSize(),textFont(),textAlign(),textWidth(),0
+random(10) 會回傳哪一類型的結果？,固定回傳 10,0 到 10 之間的隨機數,只能回傳整數 0,一個文字字串,1
+哪一個函式可以停止繪製動畫迴圈？,loop(),redraw(),noLoop(),frameRate(),2
+p5.js 的 fill() 函式主要影響圖形的哪一部分？,內部填色,外框線條,滑鼠座標,畫布尺寸,0
+若要繪製矩形，通常應使用哪一個函式？,rect(),arc(),bezier(),translate(),0
